@@ -1,7 +1,8 @@
 # Hi there 👋
 
-I'm Stacey, a **beginner programmer** learning **Python** and soon **SQL** 🌱, based in **Amsterdam, The Netherlands** 🇳🇱.  
-Follow me on my journey from cybersecurity into the world of **data analytics** 📊. **
+My name is Stacey, I am a **beginner programmer** learning **Python** and soon **SQL** 🌱.
+I am based in **Amsterdam, The Netherlands** 🇳🇱.  
+Follow me on my journey from cybersecurity into the world of **data analytics** 📊.
 
 ---
 
