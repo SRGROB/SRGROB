@@ -1,7 +1,7 @@
 # Hi there 👋
 
-I'm Stacey, based in **Amsterdam, The Netherlands** 🇳🇱.  
-Currently a **beginner programmer** learning **Python** and soon **SQL** 🌱, on the path from cybersecurity into the world of **data analytics** 📊.  
+I'm Stacey, a **beginner programmer** learning **Python** and soon **SQL** 🌱, based in **Amsterdam, The Netherlands** 🇳🇱.  
+Follow me on my journey from cybersecurity into the world of **data analytics** 📊. **
 
 ---
 
@@ -23,14 +23,13 @@ Currently a **beginner programmer** learning **Python** and soon **SQL** 🌱, o
 ## 🎮 Hobbies & Interests
 - Gaming 🎮  
 - Film photography & videography 📸🎥  
-- American football 🏈  
-- Exploring new tech & creative tools  
+- American football 🏈   
 
 ---
 
 ## 📫 Connect with me
-For now, you can follow my progress right here on GitHub — more links coming soon 🚀
+For now, you can follow my progress right here on GitHub — but more links are coming soon! 🚀
 
 ---
 
-⚡ *Beginner programmer, lifelong learner.*
+⚡ Thanks for stopping by — more to come as I grow and build!
