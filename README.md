@@ -31,6 +31,4 @@ Follow me on my journey from cybersecurity into the world of **data analytics** 
 ## 📫 Connect with me
 For now, you can follow my progress right here on GitHub — but more links are coming soon! 🚀
 
----
-
 ⚡ Thanks for stopping by — more to come as I grow and build!
