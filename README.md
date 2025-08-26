@@ -1,7 +1,7 @@
 # Hi there 👋
 
-My name is Stacey, I am a **beginner programmer** learning **Python** and soon **SQL** 🌱.
-Follow me on my journey from cybersecurity into the world of **data analytics** 📊.
+My name is Stacey, I am a **beginner programmer** learning **Python** and soon **SQL**.
+Follow me on my journey from cybersecurity into the world of **data analytics**.
 
 ---
 
