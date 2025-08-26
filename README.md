@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**SRGROB/SRGROB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Stacey, based in **Amsterdam, The Netherlands** 🇳🇱.  
+Currently a **beginner programmer** learning **Python** and soon **SQL** 🌱, on the path from cybersecurity into the world of **data analytics** 📊.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I’m working on
+- Learning **Python** for data analysis  
+- Exploring data analytics as a career path  
+- Planning to learn **SQL** next  
+- Preparing to build my first projects (coming soon 🚀)  
+
+---
+
+## 💻 Background
+- Professional background in **Cybersecurity** 🔐  
+- Interested in using data to uncover insights & tell stories 📊  
+- Excited to grow by sharing projects and collaborating with others  
+
+---
+
+## 🎮 Hobbies & Interests
+- Gaming 🎮  
+- Film photography & videography 📸🎥  
+- American football 🏈  
+- Exploring new tech & creative tools  
+
+---
+
+## 📫 Connect with me
+For now, you can follow my progress right here on GitHub — more links coming soon 🚀
+
+---
+
+⚡ *Beginner programmer, lifelong learner.*
