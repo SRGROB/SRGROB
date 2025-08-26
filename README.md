@@ -1,29 +1,28 @@
-# Hi there 👋
+# Hey, welcome 👋
 
-My name is Stacey, I am a **beginner programmer** learning **Python** and soon **SQL**.
-Follow me on my journey from cybersecurity into the world of **data analytics**.
-
----
-
-### 🌱 What I’m working on
-- Learning **Python** for data analysis  
-- Exploring data analytics as a career path  
-- Planning to learn **SQL** next  
-- Preparing to build my first projects (coming soon 🚀)  
+I'm Stacey, a beginner programmer based in **Amsterdam, The Netherlands** 🇳🇱.  
+Right now, I’m learning **Python** (with **SQL** up next) as I move from cybersecurity into the world of **data analytics**.  
 
 ---
 
-### 💻 Background
-- Professional background in **Cybersecurity** 🔐  
-- Interested in using data to uncover insights & tell stories 📊  
-- Excited to grow by sharing projects and collaborating with others  
+## 🌱 Learning Journey
+- Practicing Python basics & data analysis libraries  
+- Exploring SQL for working with databases  
+- Starting to sketch out ideas for my first projects  
 
 ---
 
-### 🎮 Hobbies & Interests
-- Gaming 🎮  
-- Film photography & videography 📸🎥  
-- American football 🏈   
+## 🔐 Background
+I come from a **cybersecurity** background, but my curiosity for data and problem-solving pushed me toward analytics.  
+Here I’ll be documenting that switch by sharing code, experiments, and projects.  
+
+---
+
+## 🎮 Outside the Code
+When I’m not learning or coding, you’ll probably find me:  
+- Gaming  
+- Shooting film photography or practising my videography skills 
+- Watching or playing American football  
 
 ---
 
@@ -31,4 +30,5 @@ Follow me on my journey from cybersecurity into the world of **data analytics**.
 For now, you can follow my progress right here on GitHub — but more links are coming soon! 🚀
 
 ---
+
 ⚡ Thanks for stopping by — more to come as I grow and build!
